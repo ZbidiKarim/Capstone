@@ -1,0 +1,6 @@
+{
+	"name": "hamma-runtime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

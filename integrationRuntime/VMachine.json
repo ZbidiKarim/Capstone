@@ -1,0 +1,6 @@
+{
+	"name": "VMachine",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "datafactorycapstone",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d405bf51-36ac-46d7-b2a3-ef1e984d4bc6",
+		"tenantId": "b9d3aba3-670d-41ec-a879-68eb338c6748"
+	}
+}
