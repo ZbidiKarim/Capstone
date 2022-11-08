@@ -1,15 +1,13 @@
 {
 	"name": "RestService1",
-	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "www.Google.com",
+			"url": "https://docs.google.com/spreadsheets/d/1dvAmSYq8OjnzBDzoVmyWwYI0y6vr5yto/edit?usp=share_link&ouid=112151810071096995806&rtpof=true&sd=true",
 			"enableServerCertificateValidation": false,
-			"authenticationType": "Basic",
-			"userName": "mohamed",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDZFQURFQjY3LUMwNjMtNEE2Qy05OTU0LUJGRDI2MEIzODhBQV9iODQzNDFmOS0xZGM4LTQxN2QtYTZlNC0zYWM5OTRkMzgxZjkiDQp9"
+			"authenticationType": "Anonymous"
 		}
-	}
+	},
+	"type": "Microsoft.DataFactory/factories/linkedservices"
 }
